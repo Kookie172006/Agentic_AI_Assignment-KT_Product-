@@ -45,15 +45,15 @@ llm = ChatGoogleGenerativeAI(
 kt_guide_content = """
 Welcome to InnovateCorp! This Knowledge Transfer (KT) guide is designed to help new employees navigate their initial weeks and understand key aspects of our operations. Our core values are Innovation, Collaboration, and Customer Focus.
 
-**Team Structure:** You will be joining the 'Project Alpha' team, reporting to Sarah Chen, the Senior Project Manager. Your direct teammates include David Lee (Lead Developer), Maria Rodriguez (UI/UX Designer), and Tom Jackson (QA Engineer). Our team meetings are held every Monday at 10 AM in Conference Room 3, and daily stand-ups are at 9:30 AM via Google Meet.
+Team Structure: You will be joining the 'Project Alpha' team, reporting to Sarah Chen, the Senior Project Manager. Your direct teammates include David Lee (Lead Developer), Maria Rodriguez (UI/UX Designer), and Tom Jackson (QA Engineer). Our team meetings are held every Monday at 10 AM in Conference Room 3, and daily stand-ups are at 9:30 AM via Google Meet.
 
-**Key Tools & Software:** For project management, we use Jira for task tracking and Confluence for documentation. Our primary communication tool is Slack for instant messaging and Google Workspace for email and calendars. Development work is primarily done using Python and JavaScript, with code hosted on GitHub. Access to these tools will be granted within your first three days.
+Key Tools & Software: For project management, we use Jira for task tracking and Confluence for documentation. Our primary communication tool is Slack for instant messaging and Google Workspace for email and calendars. Development work is primarily done using Python and JavaScript, with code hosted on GitHub. Access to these tools will be granted within your first three days.
 
-**Onboarding Process:** Your first week will focus on setup and introductions. You'll receive your laptop and login credentials on day one. HR will conduct an orientation session on Tuesday covering company policies, benefits, and payroll. You'll have one-on-one meetings with your team members throughout the week. By the end of your second week, you should have access to all necessary systems and have completed mandatory compliance training modules.
+Onboarding Process: Your first week will focus on setup and introductions. You'll receive your laptop and login credentials on day one. HR will conduct an orientation session on Tuesday covering company policies, benefits, and payroll. You'll have one-on-one meetings with your team members throughout the week. By the end of your second week, you should have access to all necessary systems and have completed mandatory compliance training modules.
 
-**Important Resources:** The company's internal knowledge base can be found at `internal.innovatecorp.com/kb`. This includes FAQs, best practices, and troubleshooting guides. For IT support, please submit a ticket via `support.innovatecorp.com` or call extension 5555. Health and wellness benefits information is available on the HR portal.
+Important Resources: The company's internal knowledge base can be found at `internal.innovatecorp.com/kb`. This includes FAQs, best practices, and troubleshooting guides. For IT support, please submit a ticket via `support.innovatecorp.com` or call extension 5555. Health and wellness benefits information is available on the HR portal.
 
-**Culture & Expectations:** InnovateCorp encourages a proactive and collaborative environment. We value open communication and continuous learning. Don't hesitate to ask questions; your team is here to support your growth. Performance reviews are conducted quarterly, and professional development courses are available through our 'InnovateLearn' platform.
+Culture & Expectations: InnovateCorp encourages a proactive and collaborative environment. We value open communication and continuous learning. Don't hesitate to ask questions; your team is here to support your growth. Performance reviews are conducted quarterly, and professional development courses are available through our 'InnovateLearn' platform.
 """
 
 
